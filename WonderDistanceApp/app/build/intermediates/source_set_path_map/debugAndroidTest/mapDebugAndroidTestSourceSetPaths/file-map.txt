@@ -1,0 +1,4 @@
+com.example.wonderdistanceapp.test.app-androidTest-0 C:\Users\DELL\Desktop\WonderDistanceApp\app\build\generated\res\resValues\androidTest\debug
+com.example.wonderdistanceapp.test.app-mergeDebugAndroidTestResources-1 C:\Users\DELL\Desktop\WonderDistanceApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.wonderdistanceapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\DELL\Desktop\WonderDistanceApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.wonderdistanceapp.test.app-debugAndroidTest-3 C:\Users\DELL\Desktop\WonderDistanceApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

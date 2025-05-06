@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_dark_onPrimary
+color md_theme_dark_onPrimaryContainer
+color md_theme_dark_onSecondary
+color md_theme_dark_primary
+color md_theme_dark_primaryContainer
+color md_theme_dark_secondary
+color md_theme_light_onPrimary
+color md_theme_light_onPrimaryContainer
+color md_theme_light_onSecondary
+color md_theme_light_primary
+color md_theme_light_primaryContainer
+color md_theme_light_secondary
+drawable earth_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.WonderDistanceApp
